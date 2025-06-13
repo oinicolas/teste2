@@ -9,7 +9,7 @@
     border="dotted"
     border_color="white"
     hover_bg_color="#8b5cf6"
-    radius="30"
+    radius="100"
     font-size="16"
     width="120"
     height="40"
