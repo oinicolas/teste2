@@ -1,16 +1,16 @@
 <page id="start" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
   <agent
-    id="teste"
-    text="Hello World"
+    id="title"
+    text="Gato de Schrödinger"
     color="white"
     x="center"
-    y="center"
-    font-size="70"
+    y="100"
+    font-size="68"
   />
 
   <agent
-    id="next_page_text"
-    text="Proxima Pagina"
+    id="start"
+    text="Iniciar"
     animation="glitch"
     y="480"
     x="640"
