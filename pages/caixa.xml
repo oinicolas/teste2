@@ -1,10 +1,8 @@
-<page id="paradoxo" bg_color="black">
+<page id="caixa" bg_color="black">
   <agent
-    id=""
+    id="caixa1"
     x="center"
     y="center"
-    text="Página caixa"
-    color="white"
-    font-size="24"
+    image="
   />
 </page>
