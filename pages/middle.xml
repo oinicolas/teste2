@@ -1,12 +1,12 @@
 <page id="middle" bg_color="black" bg_music="osts-vilo.mp3">
   <agent
     id="title"
-    text="Gato de Schrödinger"
+    text="O experimento do gato de Schrödinger é uma ideia teórica da física quântica. Ele mostra um gato dentro de uma caixa que, devido a um processo quântico aleatório, pode estar ao mesmo tempo vivo e morto até que alguém abra a caixa e observe. Sendo criado para ilustrar como a mecânica quântica pode parecer estranha no mundo real."
     color="white"
     radius="12"
-    x="center"
+    x=""
     y="100"
-    font-size="68"
+    font-size="25"
   />
 
   <agent
@@ -16,7 +16,7 @@
     color="white"
     radius="12"
     animation="hover-grow "
-    y="500"
+    y="400"
     x="250"
     on_click="goToPage('middle')"
     font-size="40"
