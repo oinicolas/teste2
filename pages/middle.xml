@@ -1,4 +1,4 @@
-<page id="start" bg_color="black" bg_music="osts-vilo.mp3">
+<page id="middle" bg_color="black" bg_music="osts-vilo.mp3">
   <agent
     id="title"
     text="Gato de Schrödinger"
@@ -10,8 +10,8 @@
   />
 
   <agent
-    id="start_paradox"
-    text="Iniciar paradoxo"
+    id="start"
+    text="Iniciar"
     bg_color="#10b981"
     color="white"
     radius="12"
