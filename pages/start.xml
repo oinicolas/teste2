@@ -6,7 +6,9 @@
   <agent
     id="title"
     text="Gato de Schrödinger"
+    bg_color="#10b981"
     color="white"
+    radius="12"
     x="center"
     y="100"
     font-size="68"
