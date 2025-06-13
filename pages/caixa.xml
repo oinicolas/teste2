@@ -8,7 +8,7 @@
   />
 
   <agent
-    id="title"
+    id="paradox"
     text="O gato se encontra vivo e morto nesse momento. Aperte em um círculo para finalizar o paradoxo."
     color="white"
     radius="12"
