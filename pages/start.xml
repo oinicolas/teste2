@@ -1,4 +1,8 @@
-<page id="start" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
+<page
+  id="start"
+  bg_image="flat_design_science_lab_23_2148493671.png"
+  bg_music="osts-vilo.mp3"
+>
   <agent
     id="title"
     text="Gato de Schrödinger"
@@ -11,9 +15,11 @@
   <agent
     id="start"
     text="Iniciar"
-    animation="glitch"
-    y="480"
-    x="640"
+    color="white"
+    animation="hover-grow "
+    y="400"
+    x="center"
     on_click="goToPage('middle')"
+    font-size="50"
   />
 </page>
