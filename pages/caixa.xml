@@ -1,6 +1,6 @@
-<page id="caixa" bg_color="black">
+<page id="paradoxo" bg_color="black">
   <agent
-    id="titulo"
+    id=""
     x="center"
     y="center"
     text="Página caixa"
