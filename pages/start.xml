@@ -1,13 +1,14 @@
 <page
   id="start"
   bg_image="flat_design_science_lab_23_2148493671.png"
+  bg_color="black"
   bg_music="osts-vilo.mp3"
 >
   <agent
     id="title"
     text="Gato de Schrödinger"
-    bg_color="#10b981"
-    color="white"
+    bg_color="white"
+    color="black"
     radius="12"
     x="center"
     y="100"
@@ -17,7 +18,9 @@
   <agent
     id="start"
     text="Iniciar"
+    bg_color="#10b981"
     color="white"
+    radius="12"
     animation="hover-grow "
     y="400"
     x="center"
