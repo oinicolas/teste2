@@ -1,20 +1,11 @@
 <page id="morto" bg_color="black">
-  <page id="caixa" bg_color="black">
+
   <agent
     id="caixa1"
     x="center"
-    y="250"
-    image="pngimg_com_box_png96.png"
-    width="400"
+    y="230"
+    image="pngimg_com_box_png96_1_.png"
+    width="550"
   />
 
-  <agent
-    id="paradox"
-    text="O gato se encontra vivo e morto nesse momento. Aperte em um círculo para finalizar o paradoxo."
-    color="white"
-    radius="12"
-    x=""
-    y="60"
-    font-size="40"
-  />
 </page>
