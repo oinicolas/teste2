@@ -11,14 +11,14 @@
 
   <agent
     id="start"
-    text="Iniciar"
+    text="Começar"
     bg_color="#10b981"
     color="white"
     radius="12"
-    animation="hover-grow "
+    animation="hover-bounce"
     y="400"
-    x="320"
-    on_click="goToPage('caixa')"
+    x="300"
+    on_click="goToPage('middle')"
     font-size="50"
   />
 </page>
