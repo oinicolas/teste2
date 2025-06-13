@@ -1,14 +1,12 @@
 <page
   id="start"
-  bg_image="flat_design_science_lab_23_2148493671.png"
   bg_color="black"
   bg_music="osts-vilo.mp3"
 >
   <agent
     id="title"
     text="Gato de Schrödinger"
-    bg_color="white"
-    color="black"
+    color="white"
     radius="12"
     x="center"
     y="100"
@@ -23,8 +21,9 @@
     radius="12"
     animation="hover-grow "
     y="400"
-    x="center"
+    x="320"
     on_click="goToPage('middle')"
     font-size="50"
   />
+  
 </page>
